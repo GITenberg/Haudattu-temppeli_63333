@@ -1,5 +1,5 @@
 _repo: Haudattu-temppeli_63333
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le temple enseveli. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '47298'
     url: http://www.gutenberg.org/2009/agents/47298
     wikipedia: https://fi.wikipedia.org/wiki/Armas_H%C3%A4m%C3%A4l%C3%A4inen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -23,6 +26,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
     - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63333#Haudattu-temppeli
 gutenberg_issued: '2020-09-29'
 gutenberg_type: Text
 identifiers:
